@@ -1,0 +1,26 @@
+{
+  "name": "Chart",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "nuxt": "^3.8.1",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "sass": "^1.69.5",
+    "stream-chat": "^8.14.1",
+    "vuetify": "^3.3.23"
+  }
+}
