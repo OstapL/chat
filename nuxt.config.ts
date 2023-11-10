@@ -3,13 +3,13 @@ import { resolve } from "path";
 
 export default defineNuxtConfig({
   app: {
-    rootId: 'Chart',
+    rootId: 'Chat',
     head: {
-      title: 'Simple Chart',
+      title: 'Simple Chat',
       meta: [
         {
           name: 'description',
-          content: 'Simple Chart for test tasks',
+          content: 'Simple Chat for test tasks',
         },
       ],
     },
