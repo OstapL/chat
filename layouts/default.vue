@@ -1,5 +1,5 @@
 <template>
-	<div class="chart-default-layout">
+	<div class="chat-default-layout">
 		<slot />
 	</div>
 </template>
